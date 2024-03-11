@@ -1,4 +1,4 @@
-# SwiftPlantUML
+# SwiftPlantUML - 소스 분석 툴
 
 Generate UML class diagrams from swift code with this Command Line Interface (CLI) and Swift Package.
 
